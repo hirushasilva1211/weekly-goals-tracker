@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Remove other files
+*.xlsx
+
 # C extensions
 *.so
 
